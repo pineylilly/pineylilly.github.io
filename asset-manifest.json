@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.c72bf4f6.css",
-    "main.js": "/static/js/main.fadb4bb5.js",
+    "main.js": "/static/js/main.bac6b532.js",
     "static/js/27.e803769c.chunk.js": "/static/js/27.e803769c.chunk.js",
     "static/media/globaltalk.svg": "/static/media/globaltalk.7e68d045b34fc216f0953c66c341e4de.svg",
     "static/media/basys3ponggame.svg": "/static/media/basys3ponggame.852a9b78b33369cfe1c4145c39c214c1.svg",
     "static/media/airpurifier.png": "/static/media/airpurifier.cf39e835231810038bc8.png",
     "static/media/chadmart.svg": "/static/media/chadmart.ee0db8e8c6d66684ffc0231468fd1631.svg",
+    "static/media/havequeued.svg": "/static/media/havequeued.608c5823e3c52b48c12a78e8aaf83d33.svg",
     "static/media/wordbomb.svg": "/static/media/wordbomb.6accbdf03a6c87ee4ce05cc5d7e66596.svg",
     "static/media/isoslime.svg": "/static/media/isoslime.f07c152298cd1ac8967b1b770f3c06e5.svg",
     "static/media/sonarslime.svg": "/static/media/sonarslime.7b5ca7c74f6fb416e9e5259c78a428b3.svg",
@@ -14,6 +15,6 @@
   },
   "entrypoints": [
     "static/css/main.c72bf4f6.css",
-    "static/js/main.fadb4bb5.js"
+    "static/js/main.bac6b532.js"
   ]
 }
