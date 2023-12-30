@@ -5,6 +5,7 @@ import airpurifierImg from "../images/airpurifier.png"
 import globaltalkImg from "../images/globaltalk.svg"
 import isoslimeImg from "../images/isoslime.svg"
 import sonarslimeImg from "../images/sonarslime.svg"
+import havequeuedImg from "../images/havequeued.svg"
 
 export interface IProject {
     "title": string;
@@ -19,6 +20,19 @@ export interface IProject {
 }
 
 export const projectsData = [
+    {
+        "title": "HaveQueued - Easy Queue Management System",
+        "image": havequeuedImg,
+        "description": "Realtime queue management system for scheduling presentations, or sending assignments, or something else. This projects use React/Typescript for frontend and express/socket.io for backend.",
+        "link": [
+            {
+                "type": "github",
+                "url": "https://github.com/creampiney/have-queued"
+            }
+        ],
+        "tags": ["Web Dev", "Full Stack", "socket.io"],
+        "languages": ["TypeScript"]
+    },
     {
         "title": "Word Bomb - 2-Player English Vocabulary Game",
         "image": wordbombImg,
